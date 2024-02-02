@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi stranger 👋 I'm Jake Ramphal — Full-stack Product Designer
 
 <!--
 **jacquesramphal/jacquesramphal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
